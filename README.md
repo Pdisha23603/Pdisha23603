@@ -4,7 +4,7 @@ A passionate full-stack developer from India.
 
 - 🌱 I’m currently a Full-Stack Developer (React, Node.js, MongoDB, MySQL)
 - 💬 Ask me about DSA, SQL, JavaScript, React, Node.js, Express.js
-- 📫 Contact me: [your-email@example.com]
+- 📫 Contact me: pdisha23603@gmail.com
 
 ## 🌐 Connect with me:
 email : pdisha23603@gmail.com
