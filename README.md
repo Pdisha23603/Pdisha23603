@@ -9,7 +9,7 @@ A passionate full-stack developer from India.
 ## 🌐 Connect with me:
 email : pdisha23603@gmail.com
 LinkedIn : https://www.linkedin.com/in/patel-disha-926a47298/
-instagram : __patel__.18
+instagram : https://www.instagram.com/__patel__.18/
 
 ## 📊 GitHub Stats:
 https://github.com/Pdisha23603
